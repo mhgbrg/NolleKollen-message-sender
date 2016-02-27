@@ -9,6 +9,10 @@ A simple script that allows you to send messages to the NolleKollen app programm
 If you want to schedule the sending of a message you can use the command `at` to schedule the execution of a bash script with the line
 above.
 
+## Dependencies
+
+In order to run the script you need to have [CasperJS](http://casperjs.org/) installed globally on your machine.
+
 ## Background
 
 At the time of writing this script the NolleKollen app didn't have any way of scheduling the sending of messages, and it didn't have any
